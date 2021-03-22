@@ -2,6 +2,7 @@ name: Build and Deploy Storybook 📕
 on: [push]
 jobs:
   build-and-deploy:
+    name: Build and deploy 🚀
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
@@ -9,10 +10,12 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Install and Build 🔧
-        run: |
-          yarn
-          yarn run storybook:build
+      - name: Install dependencies 📦
+        run: yarn
+      - name: Build library 🔧
+        run: yarn run build
+      - name: Build Storybook 📕
+        run: yarn run storybook:build
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
