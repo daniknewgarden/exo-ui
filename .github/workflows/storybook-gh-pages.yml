@@ -23,7 +23,9 @@ jobs:
       - name: Build Storybook 2 📕
         id: build-2
         if: steps.build-1.outcome=='failure'
-        run: yarn run build-storybook
+        run: |
+          yarn install
+          yarn run build-storybook
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
