@@ -15,7 +15,15 @@ jobs:
       - name: Build library 🔧
         run: yarn run build
       - name: Build Storybook 📕
-        run: yarn run storybook:build
+        continue-on-error: true
+        id: build-1
+        run: |
+          cd example
+          yarn install
+      - name: Build Storybook 2 📕
+        id: build-2
+        if: steps.test.outcome=='failure'
+        run: yarn run build-storybook
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
