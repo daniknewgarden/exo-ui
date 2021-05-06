@@ -5,7 +5,7 @@ export const GlobalStyle = createGlobalStyle`
     --color-text: #fff;
     --color-main: #3366ff;
     --color-darker: #254eda;
-    --color-lighter: #6690ff;
-    --color-disabled: #e3e4eb;
+    --color-lighter: #6f96ff;
+    --color-disabled: #c9c9c9;
   }
 `
