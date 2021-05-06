@@ -41,7 +41,7 @@ ReactDOM.render(
 #### Storybook 📕
 
 There is no point in talking much about the components. <br>
-I'll leave a [**link to the Storybook**](www.goole.com 'Link to the Storybook') here, see for yourself. There you can see all the props and other important information.
+I'll leave a [**link to the Storybook**](https://daniknewgarden.github.io/exo-ui/ 'Link to the Storybook') here, see for yourself. There you can see all the props and other important information.
 
 #### Custom styles 🖌
 
