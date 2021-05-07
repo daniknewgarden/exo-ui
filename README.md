@@ -160,18 +160,18 @@ I identified the following `types` of commits:
 ### Links 🔗
 
 <a href="https://join.slack.com/t/exo-design-system/shared_invite/zt-q5j4ylac-OvX2E6DfpWRfezSQU8Qicg">
-  <img width="30" style="margin-right: 10px" src="https://a.slack-edge.com/80588/marketing/img/icons/icon_slack_hash_colored.png"/>
+  <img width="30" style="margin-right: 10px" src="https://raw.githubusercontent.com/daniknewgarden/exo-ui/main/example/screenshots/slack.png"/>
 </a>
 &nbsp;
 <a href="https://miro.com/welcomeonboard/3QDJm6pQfZvGyIghGEV34WYCtpn7D6I1siIRSc0nx80sxOnjqYomgx72YB2B0ya8">
-  <img width="30" style="margin-right: 10px" src="https://store-images.s-microsoft.com/image/apps.59334.da7f283b-9ae8-462d-968c-37937444d8e9.94b0a2b8-1808-4bf5-987d-ab0d9b98780e.05b65b02-4545-49e7-b530-981ac20aa7a2.png"/>
+  <img width="30" style="margin-right: 10px" src="https://raw.githubusercontent.com/daniknewgarden/exo-ui/main/example/screenshots/miro.png"/>
 </a>
 &nbsp;
 <a href="https://id.atlassian.com/invite/p/jira-software?id=J-8LzVnYRtOhg70Bk1vxwA">
-  <img width="30" style="margin-right: 10px" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg"/>
+  <img width="30" style="margin-right: 10px" src="https://raw.githubusercontent.com/daniknewgarden/exo-ui/main/example/screenshots/jira.png"/>
 </a>
 
-
 ## License 🔓
+
 MIT © [daniknewgarden](https://github.com/daniknewgarden) <br>
 Designed by [Anthony Choren](https://dribbble.com/shots/11967273-EXO-KIT-Design-System 'Anthony Choren Dribbble')
