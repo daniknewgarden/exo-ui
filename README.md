@@ -41,7 +41,7 @@ ReactDOM.render(
 #### Storybook 📕
 
 There is no point in talking much about the components. <br>
-I'll leave a [**link to the Storybook**](https://daniknewgarden.github.io/exo-ui/ 'Link to the Storybook') here, see for yourself. There you can see all the props and other important information.
+I'll leave a [**link to the Storybook here**](https://daniknewgarden.github.io/exo-ui/ 'Link to the Storybook'), see for yourself. There you can see all the props and other important information.
 
 #### Custom styles 🖌
 
@@ -94,7 +94,84 @@ export default App
 }
 ```
 
-## License
+## For contributors 👩‍💻
 
+### Technologies stack 📃
+
+This library created using by [create-react-library](https://github.com/transitive-bullshit/create-react-library#readme).
+Here is used technologies list:
+
+- React ([docs](https://reactjs.org/docs/getting-started.html))
+- TypeScript ([docs](https://www.typescriptlang.org/docs/handbook/react.html))
+- Styled components ([docs](https://styled-components.com/))
+
+### Set up environment 💻
+
+First, clone this repo `git clone git@github.com:daniknewgarden/exo-ui.git`
+
+#### Run development 🗡
+
+Install dependencies using `yarn install` <br>
+Run development using `yarn start` <br>
+
+#### Run live example 📺
+
+You can run live example app, what can use components from library on the `example` folder. <br>
+First change directory using `cd ./example`. <br>
+Install dependencies using `yarn install`. <br>
+Run development using `yarn start` <br>
+
+#### Run storybook 📕
+
+You can run storybook on the `example` folder. <br>
+First change directory using `cd ./example`. <br>
+Just run `yarn storybook`. <br>
+
+### Create components 🧩
+
+#### File structure 📁
+
+#### Unit tests 🧪
+
+#### Storybook docs 📕
+
+#### Accessibility checklist ✅
+
+### Commit changes 🌳
+
+Good practice of convenient open source project are clear commits. <br>
+To provide it, we could follow some rules and style guide ([more details on this article](https://drbrain.ru/articles/git-commit-message/)). <br>
+**Usually the commit should looks like this:** <br>
+`<type>(<scope>): <subject>`<br>
+I identified the following `types` of commits:
+
+- `feat`: new functionality or components (example: add Button component).
+- `fix`: some fixes (example: fix Button on click callback).
+- `docs`: docs change (example: add Button docs to storybook).
+- `style`: styles change (example: change Button default radius).
+- `test`: editing or creating new tests (example: add Button unit tests).
+- `build`: changes with build (example: add new package).
+- `chore`: changes, that the user may not see (example: change .gitignore).
+- `refactor`: changes that aren't new functionality or fixes (example: change variable name).
+
+`scope` is the changed section of the project. For example, it can be directory. <br>
+`subject` is the description of your changes. Please, use only lower case letters, don't use dot at the end.
+
+### Links 🔗
+
+<a href="https://join.slack.com/t/exo-design-system/shared_invite/zt-q5j4ylac-OvX2E6DfpWRfezSQU8Qicg">
+  <img width="30" style="margin-right: 10px" src="https://a.slack-edge.com/80588/marketing/img/icons/icon_slack_hash_colored.png"/>
+</a>
+&nbsp;
+<a href="https://miro.com/welcomeonboard/3QDJm6pQfZvGyIghGEV34WYCtpn7D6I1siIRSc0nx80sxOnjqYomgx72YB2B0ya8">
+  <img width="30" style="margin-right: 10px" src="https://store-images.s-microsoft.com/image/apps.59334.da7f283b-9ae8-462d-968c-37937444d8e9.94b0a2b8-1808-4bf5-987d-ab0d9b98780e.05b65b02-4545-49e7-b530-981ac20aa7a2.png"/>
+</a>
+&nbsp;
+<a href="https://id.atlassian.com/invite/p/jira-software?id=J-8LzVnYRtOhg70Bk1vxwA">
+  <img width="30" style="margin-right: 10px" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg"/>
+</a>
+
+
+## License 🔓
 MIT © [daniknewgarden](https://github.com/daniknewgarden) <br>
 Designed by [Anthony Choren](https://dribbble.com/shots/11967273-EXO-KIT-Design-System 'Anthony Choren Dribbble')
