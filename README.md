@@ -159,17 +159,9 @@ I identified the following `types` of commits:
 
 ### Links 🔗
 
-<a href="https://join.slack.com/t/exo-design-system/shared_invite/zt-q5j4ylac-OvX2E6DfpWRfezSQU8Qicg">
-  <img width="30" style="margin-right: 10px" src="https://raw.githubusercontent.com/daniknewgarden/exo-ui/main/example/screenshots/slack.png"/>
-</a>
-&nbsp;
-<a href="https://miro.com/welcomeonboard/3QDJm6pQfZvGyIghGEV34WYCtpn7D6I1siIRSc0nx80sxOnjqYomgx72YB2B0ya8">
-  <img width="30" style="margin-right: 10px" src="https://raw.githubusercontent.com/daniknewgarden/exo-ui/main/example/screenshots/miro.png"/>
-</a>
-&nbsp;
-<a href="https://id.atlassian.com/invite/p/jira-software?id=J-8LzVnYRtOhg70Bk1vxwA">
-  <img width="30" style="margin-right: 10px" src="https://raw.githubusercontent.com/daniknewgarden/exo-ui/main/example/screenshots/jira.png"/>
-</a>
+[![Slack invite](https://raw.githubusercontent.com/daniknewgarden/exo-ui/main/example/screenshots/slack.png)](https://raw.githubusercontent.com/daniknewgarden/exo-ui/main/example/screenshots/slack.png "Slack invite")&nbsp;&nbsp;
+[![Miro invite](https://raw.githubusercontent.com/daniknewgarden/exo-ui/main/example/screenshots/miro.png)](https://miro.com/welcomeonboard/3QDJm6pQfZvGyIghGEV34WYCtpn7D6I1siIRSc0nx80sxOnjqYomgx72YB2B0ya8 "Miro invite")&nbsp;&nbsp;
+[![Jira invite](https://raw.githubusercontent.com/daniknewgarden/exo-ui/main/example/screenshots/jira.png)](https://id.atlassian.com/invite/p/jira-software?id=J-8LzVnYRtOhg70Bk1vxwA "Jira invite")&nbsp;&nbsp;
 
 ## License 🔓
 
